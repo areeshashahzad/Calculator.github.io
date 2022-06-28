@@ -186,4 +186,13 @@ input#equal{
     display: flex;
     justify-content: center;
   }
+  .body-1{
+  color: #ffffff;
+  margin-top: 10px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+
+}
 }
